@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\bin\Debug\net6.0\03-CalculadoraRaio.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\bin\Debug\net6.0\03-CalculadoraRaio.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\bin\Debug\net6.0\03-CalculadoraRaio.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\bin\Debug\net6.0\03-CalculadoraRaio.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\bin\Debug\net6.0\03-CalculadoraRaio.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\03-CalculadoraRaio.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\03-CalculadoraRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\03-CalculadoraRaio.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\03-CalculadoraRaio.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\03-CalculadoraRaio.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\03-CalculadoraRaio.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\refint\03-CalculadoraRaio.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\03-CalculadoraRaio.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\03-CalculadoraRaio.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Projetos\03-CalculadoraRaio\obj\Debug\net6.0\ref\03-CalculadoraRaio.dll
