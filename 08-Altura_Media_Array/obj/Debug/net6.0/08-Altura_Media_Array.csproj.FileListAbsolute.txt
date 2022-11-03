@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\bin\Debug\net6.0\08-Altura_Media_Array.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\bin\Debug\net6.0\08-Altura_Media_Array.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\bin\Debug\net6.0\08-Altura_Media_Array.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\bin\Debug\net6.0\08-Altura_Media_Array.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\bin\Debug\net6.0\08-Altura_Media_Array.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\08-Altura_Media_Array.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\08-Altura_Media_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\08-Altura_Media_Array.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\08-Altura_Media_Array.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\08-Altura_Media_Array.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\08-Altura_Media_Array.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\refint\08-Altura_Media_Array.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\08-Altura_Media_Array.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\08-Altura_Media_Array.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\08-Altura_Media_Array\obj\Debug\net6.0\ref\08-Altura_Media_Array.dll
