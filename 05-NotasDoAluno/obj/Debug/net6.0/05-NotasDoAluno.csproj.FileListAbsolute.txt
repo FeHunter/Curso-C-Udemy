@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\bin\Debug\net6.0\05-NotasDoAluno.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\bin\Debug\net6.0\05-NotasDoAluno.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\bin\Debug\net6.0\05-NotasDoAluno.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\bin\Debug\net6.0\05-NotasDoAluno.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\bin\Debug\net6.0\05-NotasDoAluno.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\05-NotasDoAluno.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\05-NotasDoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\05-NotasDoAluno.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\05-NotasDoAluno.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\05-NotasDoAluno.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\05-NotasDoAluno.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\refint\05-NotasDoAluno.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\05-NotasDoAluno.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\05-NotasDoAluno.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\05-NotasDoAluno\obj\Debug\net6.0\ref\05-NotasDoAluno.dll
