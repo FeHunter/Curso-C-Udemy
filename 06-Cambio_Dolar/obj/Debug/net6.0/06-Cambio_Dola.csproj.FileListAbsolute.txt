@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\bin\Debug\net6.0\06-Cambio_Dola.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\bin\Debug\net6.0\06-Cambio_Dola.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\bin\Debug\net6.0\06-Cambio_Dola.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\bin\Debug\net6.0\06-Cambio_Dola.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\bin\Debug\net6.0\06-Cambio_Dola.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\06-Cambio_Dola.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\06-Cambio_Dola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\06-Cambio_Dola.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\06-Cambio_Dola.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\06-Cambio_Dola.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\06-Cambio_Dola.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\refint\06-Cambio_Dola.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\06-Cambio_Dola.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\06-Cambio_Dola.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\06-Cambio_Dola\obj\Debug\net6.0\ref\06-Cambio_Dola.dll
