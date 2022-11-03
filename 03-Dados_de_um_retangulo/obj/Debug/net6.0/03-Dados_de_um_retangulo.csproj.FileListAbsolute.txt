@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\bin\Debug\net6.0\03-Dados_de_um_retangulo.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\bin\Debug\net6.0\03-Dados_de_um_retangulo.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\bin\Debug\net6.0\03-Dados_de_um_retangulo.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\bin\Debug\net6.0\03-Dados_de_um_retangulo.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\bin\Debug\net6.0\03-Dados_de_um_retangulo.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\03-Dados_de_um_retangulo.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\03-Dados_de_um_retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\03-Dados_de_um_retangulo.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\03-Dados_de_um_retangulo.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\03-Dados_de_um_retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\03-Dados_de_um_retangulo.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\refint\03-Dados_de_um_retangulo.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\03-Dados_de_um_retangulo.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\03-Dados_de_um_retangulo.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\03-Dados_de_um_retangulo\obj\Debug\net6.0\ref\03-Dados_de_um_retangulo.dll
