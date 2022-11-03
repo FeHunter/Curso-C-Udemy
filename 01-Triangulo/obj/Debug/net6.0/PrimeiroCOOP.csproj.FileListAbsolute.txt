@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\bin\Debug\net6.0\PrimeiroCOOP.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\bin\Debug\net6.0\PrimeiroCOOP.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\bin\Debug\net6.0\PrimeiroCOOP.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\bin\Debug\net6.0\PrimeiroCOOP.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\bin\Debug\net6.0\PrimeiroCOOP.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\PrimeiroCOOP.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\PrimeiroCOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\PrimeiroCOOP.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\PrimeiroCOOP.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\PrimeiroCOOP.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\PrimeiroCOOP.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\refint\PrimeiroCOOP.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\PrimeiroCOOP.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\PrimeiroCOOP.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\PrimeiroCOOP\obj\Debug\net6.0\ref\PrimeiroCOOP.dll
