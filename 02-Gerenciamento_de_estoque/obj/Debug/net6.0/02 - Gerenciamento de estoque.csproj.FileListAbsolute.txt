@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\02 - Gerenciamento de estoque.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\02 - Gerenciamento de estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\02 - Gerenciamento de estoque.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\02 - Gerenciamento de estoque.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\02 - Gerenciamento de estoque.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\bin\Debug\net6.0\02 - Gerenciamento de estoque.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\bin\Debug\net6.0\02 - Gerenciamento de estoque.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\bin\Debug\net6.0\02 - Gerenciamento de estoque.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\bin\Debug\net6.0\02 - Gerenciamento de estoque.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\bin\Debug\net6.0\02 - Gerenciamento de estoque.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\02 - Gerenciamento de estoque.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\refint\02 - Gerenciamento de estoque.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\02 - Gerenciamento de estoque.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\02 - Gerenciamento de estoque.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01 Projetos\02 - Gerenciamento de estoque\obj\Debug\net6.0\ref\02 - Gerenciamento de estoque.dll
