@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\bin\Debug\net6.0\07-Conta_Bancaria.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\bin\Debug\net6.0\07-Conta_Bancaria.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\bin\Debug\net6.0\07-Conta_Bancaria.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\bin\Debug\net6.0\07-Conta_Bancaria.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\bin\Debug\net6.0\07-Conta_Bancaria.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\07-Conta_Bancaria.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\07-Conta_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\07-Conta_Bancaria.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\07-Conta_Bancaria.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\07-Conta_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\07-Conta_Bancaria.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\refint\07-Conta_Bancaria.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\07-Conta_Bancaria.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\07-Conta_Bancaria.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\07-Conta_Bancaria\obj\Debug\net6.0\ref\07-Conta_Bancaria.dll

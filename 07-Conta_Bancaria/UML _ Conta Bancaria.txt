@@ -1,0 +1,11 @@
+Criar uma programa que realize o cadastro de uma conta, dando opção para que seja ou não informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre mostrando os dados da conta aós cada operação.
+
+- numero da conta : double : private : get
+- nome do titular : string : private : get , set
+- valor do deposito inicial : double : private : get , set
+- valor do deposito: double : private : get , set
+- saldo da conta : double : private : 
+- taxa de saque : double : private
+
++ Deposito : double
++ Saque : double
