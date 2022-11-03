@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\bin\Debug\net6.0\02 - Media do salario.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\bin\Debug\net6.0\02 - Media do salario.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\bin\Debug\net6.0\02 - Media do salario.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\bin\Debug\net6.0\02 - Media do salario.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\bin\Debug\net6.0\02 - Media do salario.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\02 - Media do salario.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\02 - Media do salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\02 - Media do salario.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\02 - Media do salario.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\02 - Media do salario.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\02 - Media do salario.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\refint\02 - Media do salario.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\02 - Media do salario.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\02 - Media do salario.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\Exercicios\02 - Media do salario\obj\Debug\net6.0\ref\02 - Media do salario.dll
