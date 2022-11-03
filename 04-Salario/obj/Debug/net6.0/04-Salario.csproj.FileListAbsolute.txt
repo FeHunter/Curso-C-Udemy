@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\bin\Debug\net6.0\04-Salario.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\bin\Debug\net6.0\04-Salario.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\bin\Debug\net6.0\04-Salario.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\bin\Debug\net6.0\04-Salario.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\bin\Debug\net6.0\04-Salario.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\04-Salario.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\04-Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\04-Salario.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\04-Salario.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\04-Salario.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\04-Salario.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\refint\04-Salario.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\04-Salario.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\04-Salario.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\02_Exercicios\04-Salario\obj\Debug\net6.0\ref\04-Salario.dll
