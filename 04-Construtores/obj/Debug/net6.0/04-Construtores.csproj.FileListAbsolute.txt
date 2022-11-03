@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\bin\Debug\net6.0\04-Construtores.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\bin\Debug\net6.0\04-Construtores.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\bin\Debug\net6.0\04-Construtores.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\bin\Debug\net6.0\04-Construtores.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\bin\Debug\net6.0\04-Construtores.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\04-Construtores.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\04-Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\04-Construtores.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\04-Construtores.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\04-Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\04-Construtores.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\refint\04-Construtores.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\04-Construtores.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\04-Construtores.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\Codes\01_Aulas\04-Construtores\obj\Debug\net6.0\ref\04-Construtores.dll
