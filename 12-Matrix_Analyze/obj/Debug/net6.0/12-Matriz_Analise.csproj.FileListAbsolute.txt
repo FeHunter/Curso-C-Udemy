@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\bin\Debug\net6.0\12-Matriz_Analise.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\bin\Debug\net6.0\12-Matriz_Analise.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\bin\Debug\net6.0\12-Matriz_Analise.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\bin\Debug\net6.0\12-Matriz_Analise.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\bin\Debug\net6.0\12-Matriz_Analise.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\12-Matriz_Analise.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\12-Matriz_Analise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\12-Matriz_Analise.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\12-Matriz_Analise.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\12-Matriz_Analise.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\12-Matriz_Analise.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\refint\12-Matriz_Analise.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\12-Matriz_Analise.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\12-Matriz_Analise.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\12-Matriz_Analise\obj\Debug\net6.0\ref\12-Matriz_Analise.dll
