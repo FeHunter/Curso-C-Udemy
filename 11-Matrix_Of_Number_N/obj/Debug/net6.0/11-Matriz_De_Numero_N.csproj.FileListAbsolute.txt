@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\bin\Debug\net6.0\11-Matriz_De_Numero_N.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\bin\Debug\net6.0\11-Matriz_De_Numero_N.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\bin\Debug\net6.0\11-Matriz_De_Numero_N.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\bin\Debug\net6.0\11-Matriz_De_Numero_N.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\bin\Debug\net6.0\11-Matriz_De_Numero_N.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\11-Matriz_De_Numero_N.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\11-Matriz_De_Numero_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\11-Matriz_De_Numero_N.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\11-Matriz_De_Numero_N.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\11-Matriz_De_Numero_N.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\11-Matriz_De_Numero_N.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\refint\11-Matriz_De_Numero_N.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\11-Matriz_De_Numero_N.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\11-Matriz_De_Numero_N.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\11-Matriz_De_Numero_N\obj\Debug\net6.0\ref\11-Matriz_De_Numero_N.dll
