@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\bin\Debug\net6.0\09-Aluguel_De_Quartos.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\bin\Debug\net6.0\09-Aluguel_De_Quartos.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\bin\Debug\net6.0\09-Aluguel_De_Quartos.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\bin\Debug\net6.0\09-Aluguel_De_Quartos.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\bin\Debug\net6.0\09-Aluguel_De_Quartos.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\09-Aluguel_De_Quartos.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\09-Aluguel_De_Quartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\09-Aluguel_De_Quartos.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\09-Aluguel_De_Quartos.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\09-Aluguel_De_Quartos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\09-Aluguel_De_Quartos.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\refint\09-Aluguel_De_Quartos.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\09-Aluguel_De_Quartos.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\09-Aluguel_De_Quartos.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\09-Aluguel_De_Quartos\obj\Debug\net6.0\ref\09-Aluguel_De_Quartos.dll
