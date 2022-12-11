@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\bin\Debug\net6.0\10-Register_Employees.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\bin\Debug\net6.0\10-Register_Employees.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\bin\Debug\net6.0\10-Register_Employees.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\bin\Debug\net6.0\10-Register_Employees.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\bin\Debug\net6.0\10-Register_Employees.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\10-Register_Employees.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\10-Register_Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\10-Register_Employees.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\10-Register_Employees.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\10-Register_Employees.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\10-Register_Employees.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\refint\10-Register_Employees.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\10-Register_Employees.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\10-Register_Employees.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\10-Register_Employees\obj\Debug\net6.0\ref\10-Register_Employees.dll
