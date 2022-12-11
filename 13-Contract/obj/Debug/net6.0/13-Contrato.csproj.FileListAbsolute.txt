@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\bin\Debug\net6.0\13-Contrato.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\bin\Debug\net6.0\13-Contrato.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\bin\Debug\net6.0\13-Contrato.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\bin\Debug\net6.0\13-Contrato.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\bin\Debug\net6.0\13-Contrato.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\13-Contrato.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\13-Contrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\13-Contrato.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\13-Contrato.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\13-Contrato.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\13-Contrato.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\refint\13-Contrato.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\13-Contrato.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\13-Contrato.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\13-Contrato\obj\Debug\net6.0\ref\13-Contrato.dll
