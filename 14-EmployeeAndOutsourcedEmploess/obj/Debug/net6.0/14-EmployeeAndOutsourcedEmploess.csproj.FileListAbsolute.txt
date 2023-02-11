@@ -1,0 +1,15 @@
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\bin\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.exe
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\bin\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.deps.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\bin\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.runtimeconfig.json
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\bin\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\bin\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.csproj.AssemblyReference.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.AssemblyInfoInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.AssemblyInfo.cs
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\refint\14-EmployeeAndOutsourcedEmploess.dll
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.pdb
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\14-EmployeeAndOutsourcedEmploess.genruntimeconfig.cache
+C:\Users\Felipe Hunter\Projetos\CursoC#\C-Sharp_Udemy\02_Exercicios\14-EmployeeAndOutsourcedEmploess\obj\Debug\net6.0\ref\14-EmployeeAndOutsourcedEmploess.dll
